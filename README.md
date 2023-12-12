@@ -46,7 +46,8 @@ Poseo experiencia trabajando con diferentes sistemas operativos, incluyendo [Ubu
 
 - :seedling:He participado de la Hackathon del año 2023 de [CopaAirLines](https://hackathoncopa.com/) que tenia como tema principal el uso de [kubernetes](https://kubernetes.io/es/) y [AWS](https://aws.amazon.com/es/).
 - :seedling:He participado de la Hackathon del año 2022 del [samsung innovation campus](https://sicvirtual.com/) participando con el proyecto [C.E.D.A.A.C](https://github.com/raul2811/Chatbot-proyecto-final).
- - :seedling:He realizado ejercicios de analisis de datos como  [Ejercicio de analisis de datos colegio ](https://github.com/raul2811/Analisis-de-datos-ejercicio) evaluado por el [samsung innovation campus](https://sicvirtual.com/).
+- :seedling:He realizado ejercicios de analisis de datos como  [Ejercicio de analisis de datos colegio ](https://github.com/raul2811/Analisis-de-datos-ejercicio) evaluado por el [samsung innovation campus](https://sicvirtual.com/).
+- :seedling:Encuentra más detalles sobre mi trayectoria en mi repositorio [Trayectoria](https://github.com/raul2811/Trayectoria).
 ---
 
 ### Lenguajes y herramientas :
